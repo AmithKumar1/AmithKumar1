@@ -26,9 +26,9 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 ### 🔓 Privacy-First Multi-Chain DEX
 **Smart contract infrastructure for Polygon, BSC, and Ethereum**
 
-![Status](https://img.shields.io/badge/Status-Testnet_Live-brightgreen?style=flat-square)
-![Target](https://img.shields.io/badge/Target-Nov_2026-orange?style=flat-square)
-![Chain](https://img.shields.io/badge/Chains-Polygon_%7C_BSC_%7C_ETH-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Testnet_Live-brightgreen?style=round-square)
+![Target](https://img.shields.io/badge/Target-Nov_2026-orange?style=round-square)
+![Chain](https://img.shields.io/badge/Chains-Polygon_%7C_BSC_%7C_ETH-blue?style=round-square)
 
 - **Architecture:** DEX.sol | Escrow.sol | Reputation.sol | Privacy routing layer
 - **Tech:** Solidity • Hardhat • Foundry • React • Web3.js
@@ -41,9 +41,9 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 ### 📊 Polymarket Prediction Bot
 **Geopolitics-driven systematic trading system**
 
-![Status](https://img.shields.io/badge/Status-Paper_Trade-yellow?style=flat-square)
-![Scale](https://img.shields.io/badge/Scale-3.3K%2B_Lines-blue?style=flat-square)
-![Target](https://img.shields.io/badge/Target-Sharpe_%3E_1.5-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Paper_Trade-yellow?style=round-square)
+![Scale](https://img.shields.io/badge/Scale-3.3K%2B_Lines-blue?style=round-square)
+![Target](https://img.shields.io/badge/Target-Sharpe_%3E_1.5-brightgreen?style=round-square)
 
 - **Signal Domains:** India-China relations • QUAD dynamics • Indo-Pacific strategy • US-India ties • Macro policy • Emerging risks
 - **Strategies:** Impossible-events arbitrage + High-probability confirmation trading + Resolution monitoring
@@ -56,9 +56,9 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 ### 🌏 Geopolitics Intelligence Pipeline
 **Automated daily briefing + market signal generation**
 
-![Sources](https://img.shields.io/badge/Sources-12_Newsletters-blue?style=flat-square)
-![Processing](https://img.shields.io/badge/Engine-Consequence_Chain-purple?style=flat-square)
-![Output](https://img.shields.io/badge/Output-Real_Time_Alerts-brightgreen?style=flat-square)
+![Sources](https://img.shields.io/badge/Sources-12_Newsletters-blue?style=round-square)
+![Processing](https://img.shields.io/badge/Engine-Consequence_Chain-purple?style=round-square)
+![Output](https://img.shields.io/badge/Output-Real_Time_Alerts-brightgreen?style=round-square)
 
 - **Coverage:** India-China relations • QUAD alignment • US-India strategy • Indo-Pacific dynamics
 - **Processing:** Consequence-chain inference engine
@@ -127,8 +127,8 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 
 </div>
 
-![Status](https://img.shields.io/badge/Status-Archived-inactive?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-Python_%7C_PyQt6_%7C_SQLCipher-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Archived-inactive?style=round-square)
+![Tech](https://img.shields.io/badge/Tech-Python_%7C_PyQt6_%7C_SQLCipher-blue?style=round-square)
 
 - **Features:** 100% local processing • AES-256 encryption • Multi-channel alerts (WhatsApp, Telegram, Email)
 - **[Repository](https://github.com/AmithKumar1/aadhaarguard)** • **[Documentation](https://github.com/AmithKumar1/aadhaarguard/tree/main/docs)**
@@ -157,8 +157,8 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 
 **Built with focus on execution, rigor, and India's digital infrastructure needs.**
 
-![DeFi](https://img.shields.io/badge/Focus-DeFi_×_Prediction_Markets-blue?style=flat-square)
-![India](https://img.shields.io/badge/Region-India_First-orange?style=flat-square)
-![2026](https://img.shields.io/badge/Target-2026-brightgreen?style=flat-square)
+![DeFi](https://img.shields.io/badge/Focus-DeFi_×_Prediction_Markets-blue?style=round-square)
+![India](https://img.shields.io/badge/Region-India_First-orange?style=round-square)
+![2026](https://img.shields.io/badge/Target-2026-brightgreen?style=round-square)
 
 </div>
