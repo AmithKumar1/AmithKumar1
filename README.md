@@ -113,7 +113,32 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 
 ---
 
-## 📬 Get In Touch
+## 💼 Work With Me
+
+### 🚀 **DEX Partnership** (Preferred)
+Co-develop liquidity pools, privacy routing, or cross-chain bridges.  
+**Revenue share** or equity negotiable. [→ Discuss](mailto:amithkkumar@proton.me)
+
+### 📊 **Geopolitics Signal Access** (Coming May 2026)
+Once Polymarket bot hits Sharpe > 1.5, commercial signal feed launches.  
+Early beta access available for quant funds. [→ Early Access](mailto:amithkkumar@proton.me)
+
+### 🔧 **Technical Consulting** (Hourly)
+Solidity audits, DeFi architecture, cross-chain design.  
+**$250/hour** or project-based. [→ Inquiry](mailto:amithkkumar@proton.me)
+
+### ❤️ **Support This Work**
+Small contributions help fund research & infrastructure.
+
+| Tier | Price | Benefits |
+|------|-------|----------|
+| 🥉 **Supporter** | $5/mo (₹415) | Name in README, Thank you |
+| 🥈 **Backer** | $10/mo (₹830) | Priority support, Early access |
+| 🥇 **Champion** | $25/mo (₹2,075) | Feature priority, Monthly call |
+
+[❤️ Become a Sponsor](https://github.com/sponsors/AmithKumar1)
+
+---
 
 <div align="center">
 
