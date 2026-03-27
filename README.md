@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/AmithKumar1?style=social&label=Follow)](https://github.com/AmithKumar1)
 [![Twitter](https://img.shields.io/badge/Twitter-@AmithKRathod-1DA1F2?logo=twitter&logoColor=white)](https://x.com/AmithKRathod)
 [![Email](https://img.shields.io/badge/Email-amithkkumar%40gmail.com-red?logo=gmail&logoColor=white)](mailto:amithkkumar@gmail.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&logoColor=white)](https://github.com/sponsors/AmithKumar1)
 
 </div>
 
