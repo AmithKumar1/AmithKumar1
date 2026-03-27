@@ -39,6 +39,8 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 - **Progress:** Core contracts deployed to testnet. Escrow auditing in progress.
 - **Next:** Testnet explorer + frontend integration (targeting April)
 
+⚠️ **Disclaimer:** Testnet only. Not for production use until external audit complete (Q4 2026). Planned audits via OpenZeppelin or CertiK for mainnet launch.
+
 **[View Code](https://github.com/AmithKumar1)** • **[Testnet Live Soon](#)**
 
 ---
