@@ -108,7 +108,7 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 
 <div align="center">
 
-📧 **[amithkkumar@gmail.com](mailto:amithkkumar@gmail.com)** • 🐦 **[@AmithKRathod](https://x.com/AmithKRathod)**
+📧 **[amithkkumar@gmail.com](mailto:amithkkumar@gmail.com)** • 🔐 **[amithkkumar@proton.me](mailto:amithkkumar@proton.me)** • 🐦 **[@AmithKRathod](https://x.com/AmithKRathod)**
 
 </div>
 
