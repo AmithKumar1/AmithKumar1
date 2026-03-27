@@ -49,16 +49,6 @@
 
 **Why:** Geopolitics is your information edge. Automation scales it.
 
----
-
-## 📋 Current Timeline
-
-| Milestone | Target | Status |
-|-----------|--------|--------|
-| **Income Recovery** (₹10K–50K/month) | April 1, 2026 | In progress |
-| **Polymarket Bot** (paper trade, Sharpe > 1.5) | April 30, 2026 | Active development |
-| **DEX Testnet** (functional swaps, cross-chain) | June 30, 2026 | Execution phase |
-| **DEX Mainnet Launch** | November 30, 2026 | 39-week roadmap |
 
 ---
 
