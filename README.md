@@ -1,5 +1,9 @@
 <div align="center">
-  
+
+```
+"Execution beats perfection. Build in public, iterate with conviction."
+```
+
 # 🔓 Amith Kumar
 
 ### Building DeFi Infrastructure + Prediction Markets Systems
