@@ -32,7 +32,7 @@ Formatting may be inconsistent from source
 [![GitHub followers](https://img.shields.io/github/followers/AmithKumar1?style=social)](https://github.com/AmithKumar1)
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/AmithKumar1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/amithkumar1)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/AmithKumar1)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)]([https://twitter.com/AmithKumar1](https://x.com/AmithKRathod))
 
 ---
 
