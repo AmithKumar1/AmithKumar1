@@ -1,3 +1,30 @@
+
+
+
+# 👋 Hi, I'm Amith Kumar! ### 🛡️ Building Privacy-First Tools for India [![GitHub followers](https://img.shields.io/github/followers/AmithKumar1?style=social)](https://github.com/AmithKumar1) [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)
+
+pasted
+
+
+
+
+How can I help you today?
+
+Write
+
+Learn
+
+From Drive
+
+From Calendar
+
+From Gmail
+
+Pasted content
+6.32 KB •200 lines
+•
+Formatting may be inconsistent from source
+
 # 👋 Hi, I'm Amith Kumar!
 
 ### 🛡️ Building Privacy-First Tools for India
