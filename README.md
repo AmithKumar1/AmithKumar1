@@ -36,22 +36,23 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 
 - **Architecture:** DEX.sol | Escrow.sol | Reputation.sol | Privacy routing layer
 - **Tech:** Solidity • Hardhat • Foundry • React • Web3.js
-- **Why:** India needs privacy-first financial infrastructure with reputation-based access controls and cross-chain settlement
+- **Progress:** Core contracts deployed to testnet. Escrow auditing in progress.
+- **Next:** Testnet explorer + frontend integration (targeting April)
 
-**[View Code](https://github.com/AmithKumar1)** • **[Testnet Demo](#)**
+**[View Code](https://github.com/AmithKumar1)** • **[Testnet Live Soon](#)**
 
 ---
 
 ### 📊 Polymarket Prediction Bot
 **Geopolitics-driven systematic trading system**
 
-![Status](https://img.shields.io/badge/Status-Paper_Trade-yellow?style=round-square)
+![Status](https://img.shields.io/badge/Status-Development-yellow?style=round-square)
 ![Scale](https://img.shields.io/badge/Scale-3.3K%2B_Lines-blue?style=round-square)
-![Target](https://img.shields.io/badge/Target-Sharpe_%3E_1.5-brightgreen?style=round-square)
+![Target](https://img.shields.io/badge/Next-Paper_Trade_Apr-orange?style=round-square)
 
 - **Signal Domains:** India-China relations • QUAD dynamics • Indo-Pacific strategy • US-India ties • Macro policy • Emerging risks
-- **Strategies:** Impossible-events arbitrage + High-probability confirmation trading + Resolution monitoring
-- **Why:** Prediction markets are the clearest signal of geopolitical risk. Systematic approach beats narrative noise
+- **Status:** Core signal generation complete. Test harness running. Paper trade begins April 10.
+- **Next Milestone:** 2-week paper trade → Sharpe > 1.5 validation (target May 1)
 
 **[View Code](https://github.com/AmithKumar1)**
 
@@ -62,12 +63,13 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 
 ![Sources](https://img.shields.io/badge/Sources-12_Newsletters-blue?style=round-square)
 ![Processing](https://img.shields.io/badge/Engine-Consequence_Chain-purple?style=round-square)
-![Output](https://img.shields.io/badge/Output-Real_Time_Alerts-brightgreen?style=round-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=round-square)
 
 - **Coverage:** India-China relations • QUAD alignment • US-India strategy • Indo-Pacific dynamics
-- **Processing:** Consequence-chain inference engine
-- **Output:** Daily dashboard + Real-time market-moving event alerts
-- **Why:** Geopolitics is your information edge. Automation scales it
+- **Status:** ✅ Daily briefing running (9:30 AM IST). 12 newsletter sources integrated. Claude scheduled task live.
+- **Performance:** Real-time alerts on market-moving events. Consequence-chain inference active.
+
+**[View Dashboard](#)**
 
 ---
 
