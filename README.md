@@ -66,7 +66,7 @@ Your support directly funds:
 
 ## 📬 Get In Touch
 
-- 📧 **Email:** [Your email here]
+- 📧 **Email:** 
 - 💼 **LinkedIn:** 
 - 🐦 **Twitter:** [@AmithKumar1](https://twitter.com/AmithKumar1)
 - 🌐 **Website:** [Your website here]
