@@ -1,99 +1,117 @@
-
 # 👋 Hi, I'm Amith Kumar!
 
-### 🛡️ Building Privacy-First Tools for India
+### 🔓 Building DeFi Infrastructure + Prediction Markets Systems
 
 [![GitHub followers](https://img.shields.io/github/followers/AmithKumar1?style=social)](https://github.com/AmithKumar1)
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/AmithKumar1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/amithkumar1)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://x.com/AmithKRathod)
 
----
-
-## 🚀 Featured Project
-
-### [AadhaarGuard](https://github.com/AmithKumar1/aadhaarguard) 
-
-> **Your silent identity watchdog. Alerts you on WhatsApp when Aadhaar is used.**
-
-[![AadhaarGuard Stars](https://img.shields.io/github/stars/AmithKumar1/aadhaarguard?style=social)](https://github.com/AmithKumar1/aadhaarguard/stargazers)
-[![AadhaarGuard Forks](https://img.shields.io/github/forks/AmithKumar1/aadhaarguard?style=social)](https://github.com/AmithKumar1/aadhaarguard/network/members)
-[![AadhaarGuard Issues](https://img.shields.io/github/issues/AmithKumar1/aadhaarguard)](https://github.com/AmithKumar1/aadhaarguard/issues)
-
-**The Problem:** Millions of Indians discover their Aadhaar was used fraudulently — but only months later when it's too late.
-
-**The Solution:** AadhaarGuard automatically monitors your Aadhaar authentication history and alerts you instantly via WhatsApp, Telegram, or Email when new activity is detected.
-
-**Key Features:**
-- 🛡️ **100% Local** — No cloud, no server, your data never leaves your machine
-- 🔐 **AES-256 Encrypted** — Military-grade encryption for all stored data
-- 📱 **Multi-Channel Alerts** — WhatsApp, Telegram, Email, Desktop notifications
-- ⏰ **Automatic Monitoring** — Checks every 30 minutes
-- 🆓 **Free & Open-Source** — MIT License, built for India
-
-**Tech Stack:** Python, Playwright, PyQt6, SQLCipher, Node.js
-
-👉 **[Check out AadhaarGuard](https://github.com/AmithKumar1/aadhaarguard)** | 📖 **[Documentation](https://github.com/AmithKumar1/aadhaarguard/tree/main/docs)**
+> Multi-chain DEX architect | Prediction markets researcher | Geopolitics intelligence systems
 
 ---
 
-## 💖 Support My Work
+## 🚀 Currently Building
 
-All my projects are **100% free and open-source**. Your sponsorship helps me continue building privacy-first tools for India.
+### 🔓 Privacy-First Multi-Chain DEX
+**Smart contract infrastructure for Polygon, BSC, and Ethereum**
 
-[![Sponsor AmithKumar1](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/AmithKumar1)
+- **Status:** Testnet live; mainnet execution in progress
+- **Target:** November 30, 2026 mainnet launch
+- **Architecture:** DEX.sol | Escrow.sol | Reputation.sol | Privacy routing layer
+- **Tech Stack:** Solidity, Hardhat, Foundry, React, Web3.js
+- **[Code](https://github.com/AmithKumar1)** | **[Testnet Demo](#)**
 
-### Why Sponsor?
-
-Your support directly funds:
-- ✅ Development of new features (Android app, browser extension)
-- ✅ Security audits and compliance
-- ✅ Community support and documentation
-- ✅ Keeping all projects free and open-source
-
-### Sponsorship Tiers
-
-| Tier | Price | Benefits |
-|------|-------|----------|
-| 🥉 **Supporter** | $5/mo (₹415) | Name in README, Thank you |
-| 🥈 **Backer** | $10/mo (₹830) | Priority support, Early access |
-| 🥇 **Champion** | $25/mo (₹2,075) | Feature priority, Monthly call |
-| 💎 **Enterprise** | $100/mo (₹8,300) | White-label, 1:1 sessions |
-
-👉 **[Become a Sponsor](https://github.com/sponsors/AmithKumar1)**
+**Why:** India needs privacy-first financial infrastructure. Built for cross-chain settlement with reputation-based access controls.
 
 ---
 
-## 📬 Get In Touch
+### 📊 Polymarket Prediction Bot
+**Geopolitics-driven systematic trading system**
 
-- 📧 **Email:** 
-- 💼 **LinkedIn:** 
-- 🐦 **Twitter:** [@AmithKumar1](https://twitter.com/AmithKumar1)
-- 🌐 **Website:** [Your website here]
+- **Signal Generation:** 6 knowledge domains (India-China relations, QUAD dynamics, Indo-Pacific strategy, US-India ties, macro policy, emerging risks)
+- **Strategies:** Impossible-events arbitrage + high-probability confirmation trading
+- **Scale:** 3,300+ lines, 14 modules, resolution monitoring layer
+- **Status:** Paper-trade phase; deployment pending Sharpe > 1.5
+- **[Code](https://github.com/AmithKumar1)**
 
-**I'm open to:**
--  Collaborative projects
--  Open-source contributions
--  Speaking opportunities (privacy, cybersecurity)
-- 💼 Consulting (Aadhaar compliance, identity systems)
+**Why:** Prediction markets are the clearest signal of geopolitical risk. Systematic approach beats narrative noise.
+
+---
+
+### 🌏 Geopolitics Intelligence Pipeline
+**Automated daily briefing + market signal generation**
+
+- **Sources:** 12 newsletters across 4 intelligence groups
+- **Processing:** Consequence-chain inference engine
+- **Output:** Daily dashboard + real-time alerts for market-moving events
+- **Focus:** India-China relations | QUAD alignment | US-India strategy | Indo-Pacific dynamics
+- **[System](#)**
+
+**Why:** Geopolitics is your information edge. Automation scales it.
+
+---
+
+## 📋 Current Timeline
+
+| Milestone | Target | Status |
+|-----------|--------|--------|
+| **Income Recovery** (₹10K–50K/month) | April 1, 2026 | In progress |
+| **Polymarket Bot** (paper trade, Sharpe > 1.5) | April 30, 2026 | Active development |
+| **DEX Testnet** (functional swaps, cross-chain) | June 30, 2026 | Execution phase |
+| **DEX Mainnet Launch** | November 30, 2026 | 39-week roadmap |
+
+---
+
+## 💼 What I'm Looking For
+
+- **DEX Partnerships:** Liquidity providers, market makers, cross-chain integrations
+- **Prediction Market Collaborations:** Signal sharing, bot deployment opportunities
+- **Geopolitics Research:** Deep dives on QUAD, Indo-Pacific, US-India relations
+- **Speaking:** DeFi architecture, prediction markets, India's crypto policy
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```python
-# Languages
-languages = ["Python", "JavaScript", "TypeScript", "Node.js"]
+# Core Languages
+languages = ["Solidity", "Python", "JavaScript", "TypeScript"]
 
-# Frameworks & Libraries
-frameworks = ["Playwright", "PyQt6", "Express.js", "React"]
+# Smart Contracts & DeFi
+blockchain = ["Hardhat", "Foundry", "Ethers.js", "Web3.js", "OpenZeppelin"]
 
-# Tools & Platforms
-tools = ["Git", "GitHub Actions", "Docker", "AWS", "Azure"]
+# Frontend & Infrastructure
+frontend = ["React", "Node.js", "Express.js", "Git", "Docker"]
 
 # Focus Areas
-focus = ["Privacy", "Cybersecurity", "Identity Systems", "Open-Source"]
+focus = [
+    "Multi-chain DEX Architecture",
+    "Prediction Markets Systems",
+    "Geopolitics Intelligence",
+    "Smart Contract Design"
+]
 ```
+
+---
+
+## 📬 Get In Touch
+
+- 📧 **Email:** amithkkumar@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/amithkumar1](https://linkedin.com/in/amithkumar1)
+- 🐦 **Twitter:** [@AmithKRathod](https://x.com/AmithKRathod)
+
+---
+
+## 📦 Archived Projects
+
+### AadhaarGuard — Identity Monitoring System
+*Aadhaar authentication alerts via WhatsApp, Telegram, Email. Built for India's digital security.*
+
+- **Status:** Archived; available for maintenance and sponsorship inquiries
+- **Tech:** Python, Playwright, PyQt6, SQLCipher, Node.js
+- **[Repository](https://github.com/AmithKumar1/aadhaarguard)** | **[Docs](https://github.com/AmithKumar1/aadhaarguard/tree/main/docs)**
+
+*Focus shifted to DeFi and prediction markets.*
 
 ---
 
@@ -105,96 +123,23 @@ focus = ["Privacy", "Cybersecurity", "Identity Systems", "Open-Source"]
 
 ---
 
-## 🏆 Achievements
+## 🎯 Long-Term Vision
 
-<!-- Update these as you grow! -->
-
-- 🌟 **Open-Source Contributor** — Building tools for 1.3B Indians
-- 🛡️ **Privacy Advocate** — 100% local, zero-cloud architecture
-- 🇮🇳 **Made in India** — For India's digital security
-
----
-
-## 📈 Currently Working On
-
-- 📱 **AadhaarGuard Android App** — OTP auto-read + mobile alerts
-- 🌐 **Browser Extension** — Chrome/Firefox extension for monitoring
-- 📊 **Fraud Trends Dashboard** — Anonymous aggregated fraud data
-- 🤝 **Enterprise Partnerships** — White-label for banks/NBFCs
+**10-figure net worth through:**
+1. **DEX Acquisition** — Exit by December 31, 2026
+2. **Prediction Markets AUM** — Scale systematic trading systems
+3. **Equity Research** — Transition to high-compensation analyst roles leveraging geopolitics expertise
 
 ---
 
-## 🎯 How You Can Help
+## 🙏 Acknowledgments
 
-### 1. ⭐ Star My Projects
-Takes 2 seconds, helps with visibility!
-
-### 2. 💖 Sponsor
-Even $5/month makes a difference!
-
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/AmithKumar1)
-
-### 3. 📢 Share
-Post about my projects on social media
-
-### 4. 🐛 Report Issues
-Found a bug? Open an issue on GitHub
-
-### 5. 💡 Suggest Features
-Have an idea? Start a discussion
-
-### 6. 🔧 Contribute Code
-Developer? Submit a PR!
-
----
-
-## 📰 Latest Updates
-
-<!-- Update this section monthly -->
-
-### March 2024
-- ✅ Launched AadhaarGuard v1.0
-- ✅ GitHub Sponsors program enabled
-- ✅ 37 files, 5,847 lines of code
-- ✅ Comprehensive documentation (9 docs)
-
-### Coming Soon
-- 📱 Android app announcement
-- 🌐 Browser extension beta
-- 📊 Fraud trends dashboard preview
-
----
-
-## 🙏 Special Thanks
-
-To everyone who has:
-- ⭐ Starred my repositories
-- 💖 Sponsored my work
-- 🐛 Reported bugs
-- 💡 Suggested features
-- 🔧 Contributed code
-- 📢 Shared my projects
-
-**You make this possible!** 🇮🇳
-
----
-
-## 📜 License & Usage
-
-All my open-source projects are under the **MIT License** — free to use, modify, and distribute.
-
-**Commercial use?** For enterprise deployments, please reach out for white-label licensing.
-
----
-
-## 🎉 Let's Build Something Amazing Together!
-
-> **"Built with ❤️ for India's digital identity security"**
+Built with focus on execution, rigor, and India's digital infrastructure needs.
 
 ---
 
 <p align="center">
-  <a href="https://github.com/AmithKumar1/aadhaarguard">
-    <img src="https://img.shields.io/badge/🇮_Made_in_India-Privacy_First-blue" alt="Made in India - Privacy First">
+  <a href="https://github.com/AmithKumar1">
+    <img src="https://img.shields.io/badge/Focus-DeFi_×_Prediction_Markets-blue" alt="Focus: DeFi × Prediction Markets">
   </a>
 </p>
