@@ -142,11 +142,11 @@ Scaling DeFi infrastructure for India. Systematic trading on geopolitical signal
 
 **Building toward 10-figure net worth**
 
-| Path | Timeline | Target |
-|------|----------|--------|
-| 🚀 **DEX Acquisition** | Dec 31, 2026 | Series A → Exit |
-| 📈 **Prediction Markets AUM** | Ongoing | Scale systematic trading systems |
-| 🎓 **Equity Research** | Long-term | High-compensation analyst roles leveraging geopolitics expertise |
+| Path | Status | Focus |
+|------|--------|-------|
+| 🚀 **Multi-Chain DEX** | Active | Privacy-first infrastructure for India |
+| 📈 **Prediction Markets** | Active | Systematic trading on geopolitical signals |
+| 🎓 **Equity Research** | Long-term | High-conviction analysis leveraging geopolitics expertise |
 
 </div>
 
