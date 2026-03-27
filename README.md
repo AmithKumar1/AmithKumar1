@@ -49,7 +49,6 @@
 
 **Why:** Geopolitics is your information edge. Automation scales it.
 
-
 ---
 
 ## 💼 What I'm Looking For
@@ -87,7 +86,6 @@ focus = [
 ## 📬 Get In Touch
 
 - 📧 **Email:** amithkkumar@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/amithkumar1](https://linkedin.com/in/amithkumar1)
 - 🐦 **Twitter:** [@AmithKRathod](https://x.com/AmithKRathod)
 
 ---
@@ -97,19 +95,15 @@ focus = [
 ### AadhaarGuard — Identity Monitoring System
 *Aadhaar authentication alerts via WhatsApp, Telegram, Email. Built for India's digital security.*
 
+[![AadhaarGuard Stars](https://img.shields.io/github/stars/AmithKumar1/aadhaarguard?style=social)](https://github.com/AmithKumar1/aadhaarguard/stargazers)
+[![AadhaarGuard Forks](https://img.shields.io/github/forks/AmithKumar1/aadhaarguard?style=social)](https://github.com/AmithKumar1/aadhaarguard/network/members)
+
 - **Status:** Archived; available for maintenance and sponsorship inquiries
 - **Tech:** Python, Playwright, PyQt6, SQLCipher, Node.js
+- **Features:** 100% local processing | AES-256 encryption | Multi-channel alerts (WhatsApp, Telegram, Email)
 - **[Repository](https://github.com/AmithKumar1/aadhaarguard)** | **[Docs](https://github.com/AmithKumar1/aadhaarguard/tree/main/docs)**
 
 *Focus shifted to DeFi and prediction markets.*
-
----
-
-## 📊 GitHub Stats
-
-![Amith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmithKumar1&show_icons=true&theme=dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmithKumar1&layout=compact&theme=dark)
 
 ---
 
